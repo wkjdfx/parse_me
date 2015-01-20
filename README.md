@@ -32,6 +32,8 @@ using
 unit2 discover
 ```
 
+*Note*: You may need to install the `unittest2` python package to use `unit2`.
+
 from the command line. You'll see that two of the tests are already passing.
 Maybe more if you've already completed the `real_parse` method. Develop unit
 tests to cover the parsing of the entire receipt, and for extra bonus points
